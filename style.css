@@ -1,0 +1,44 @@
+body{
+	background-color: rgb (230,230,230);
+	color: black;
+	
+}
+h1, h2{
+	font-family: 'Montserrat', sans-serif;
+
+}
+p{
+	font-family: 'Domine', serif;
+}
+#avatar{
+	border-radius: 150px
+	width:300px;
+}
+}
+caption{
+	font-size:10px;
+}
+
+.intro{
+	text-align: center;
+
+}
+
+.other{
+	background-color: #ddd;
+	padding: 50px;
+	height: 400px;
+	
+	
+
+}
+.footer{
+	text-align: center;
+	background-color: #ccc;
+
+}
+#avatar{
+	width:300px;
+	border-radius: 150px;
+}
+
